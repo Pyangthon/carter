@@ -1,0 +1,10 @@
+E:\Study_file_dir\C#_study\Socket_Client\bin\Debug\Socket_Client.exe.config
+E:\Study_file_dir\C#_study\Socket_Client\bin\Debug\Socket_Client.exe
+E:\Study_file_dir\C#_study\Socket_Client\bin\Debug\Socket_Client.pdb
+E:\Study_file_dir\C#_study\Socket_Client\obj\Debug\Socket_Client.csprojAssemblyReference.cache
+E:\Study_file_dir\C#_study\Socket_Client\obj\Debug\Socket_Client.Frm_Client.resources
+E:\Study_file_dir\C#_study\Socket_Client\obj\Debug\Socket_Client.Properties.Resources.resources
+E:\Study_file_dir\C#_study\Socket_Client\obj\Debug\Socket_Client.csproj.GenerateResource.cache
+E:\Study_file_dir\C#_study\Socket_Client\obj\Debug\Socket_Client.csproj.CoreCompileInputs.cache
+E:\Study_file_dir\C#_study\Socket_Client\obj\Debug\Socket_Client.exe
+E:\Study_file_dir\C#_study\Socket_Client\obj\Debug\Socket_Client.pdb
